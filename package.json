@@ -1,0 +1,24 @@
+{
+  "name": "linkedin-auto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gustavoohrq/LinkedIn-auto.git"
+  },
+  "author": "Gustavo Henrique",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gustavoohrq/LinkedIn-auto/issues"
+  },
+  "homepage": "https://github.com/Gustavoohrq/LinkedIn-auto#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "puppeteer": "^5.2.1"
+  }
+}
